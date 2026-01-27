@@ -1,4 +1,4 @@
-# 🧬 ENTWINE Project Wiki
+# 🔬 ENTWINE Project Wiki
 
 Welcome to the **ENTWINE Project Wiki**.  
 This wiki is the central reference point for laboratory activities, IT

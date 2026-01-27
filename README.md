@@ -1,4 +1,4 @@
-# 🧬 ENTWINE Lab Repository
+# 🔬 ENTWINE Lab Repository
 
 This repository serves as the main workspace for the **ENTWINE project**.
 It contains both project documentation and the software/hardware sub-projects

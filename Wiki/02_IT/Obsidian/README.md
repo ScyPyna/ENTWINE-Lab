@@ -7,4 +7,7 @@ In the NAS there is a folder named Obsidian that contains different subfolders:
 To access the notes accross different devices you have to download [Qsync](https://www.qnap.com/en/utilities/essentials#utliity_3), access with the credentials mentioned in 1), create a local folder on your device, and sync it with the one you want from the NAS.
 You can repeat this operation and sync both your private and lab notes folder.
 
-Note: it gets more complicated if you want to do it from an iPad cause of sandboxing, I would avoid if not streactly needed
+Note1: even if you dont want to sync notes across different devices, having an updated version in the NAS via Qsync serves as a backup
+
+Note2: it gets more complicated if you want to do it from an iPad cause of sandboxing, I would avoid if not streactly needed
+

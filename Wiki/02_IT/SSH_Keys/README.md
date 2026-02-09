@@ -177,7 +177,7 @@ Two files have now been created:
 
 ---
 
-## Step 2: Display and send your public key
+## Step 3: Display and send your public key
 
 To display your public key, run:
 
@@ -192,3 +192,66 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAI... your.name@workstation
 ```
 
 Copy the entire line and send it to the workstation administrator.
+
+---
+
+## Step 4: Connect to the workstation
+
+After your key has been installed:
+
+```text
+ssh USERNAME@WORKSTATION_HOSTNAME
+```
+
+Example:
+
+```text
+ssh alice@workstation
+```
+
+On first connection you may see:
+
+```text
+The authenticity of host 'workstation (XXX.XXX.XXX.XXX)' can't be established.
+Are you sure you want to continue connecting (yes/no)?
+```
+
+Type:
+
+```text
+yes
+```
+
+A successful login looks like:
+
+```text
+alice@workstation:~$
+```
+
+---
+
+## Optional: SSH Configuration File (Recommended)
+
+To simplify future connections, you can create an SSH configuration file.
+
+### Create the configuration file
+
+File location:
+
+```text
+~/.ssh/config
+```
+Example content:
+
+```text
+Host workstation
+    HostName WORKSTATION_HOSTNAME
+    User USERNAME
+    IdentityFile ~/.ssh/id_ed25519
+```
+
+After this, you can connect simply with:
+
+```text
+ssh workstation
+```

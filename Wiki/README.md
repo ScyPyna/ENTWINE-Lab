@@ -16,8 +16,8 @@ Documentation related to laboratory work, including available equipment,
 usage guidelines, safety information, and experimental protocols.
 
 ### Subsections
-- [Equipment](01_Lab/Equipment/README.md)  
-- [Equipment manuals and general advices](01_Lab/Manuals_and_Advices/README.md)  
+- [Equipment list](01_Lab/Equipment/README.md)  
+- [Manuals and general advices](01_Lab/Manuals_and_Advices/README.md)  
 - [Protocols](01_Lab/Protocols/README.md)
 
 ---

@@ -63,8 +63,7 @@ Preparing the medium from stock solutions ensures accurate and reproducible nutr
 ## 🧪 1 M Potassium Phosphate Stock Solution (pH 7.2, for TAP Medium)
 
 ### 🎯 Purpose
-Preparation of 1 M potassium phosphate stock solution for use in TAP medium. This solution provides phosphate while maintaining pH 7.2. It should be prepared, sterilized, and stored properly to ensure reproducibility and stability.
-
+Preparation of 1 M potassium phosphate stock solution for use in TAP medium.
 ---
 
 ### 📋 Materials (for 100 mL)
@@ -73,6 +72,8 @@ Preparation of 1 M potassium phosphate stock solution for use in TAP medium. T
 - Milli-Q water (~100 mL total)  
 - Potassium Phosphate monobasic (KH2PO4): 3.85 g  
 - Potassium Phosphate dibasic (K2HPO4): 12.49 g  
+
+NOTE: Pay attention to the phosphate salts you're using! (check if hydrated or not)
 
 **Utensils**
 - 1 × 100 mL beaker  
@@ -92,8 +93,7 @@ Preparation of 1 M potassium phosphate stock solution for use in TAP medium. T
 3. Stir with a magnetic stirrer until completely dissolved.  
 4. Transfer solution to the measuring cylinder and adjust volume to 100 mL with Milli-Q water.  
 5. Pour back into the beaker and mix thoroughly.  
-6. Measure the pH at room temperature (without stirring). Target: 7.2.  
-   - If pH is significantly different, discard and prepare a new batch.  
+6. Measure the pH at room temperature (without stirring). Target: 7.2. If pH is significantly different, discard and prepare a new batch.  
 7. Record the pH on the bottle.  
 8. Autoclave the solution.
 
@@ -109,3 +109,4 @@ Preparation of 1 M potassium phosphate stock solution for use in TAP medium. T
 - Handle chemicals with gloves and lab coat.  
 - Use sterile technique to avoid contamination.  
 - Autoclave according to lab safety protocols.
+

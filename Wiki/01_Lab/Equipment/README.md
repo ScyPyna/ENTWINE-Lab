@@ -5,31 +5,38 @@ This section describes the standard operation procedures for our laboratory equi
 ### 🔬 Purpose
 The incubator (Binder KB PRO Light Module, two-shelf configuration) is used to provide controlled temperature conditions for the growth and maintenance of algal cultures. Stable thermal environments are essential for reproducible physiological activity, cell division, and metabolic performance. Cultures are placed inside to ensure consistent incubation during experimental preparation, propagation, or storage phases, minimizing external environmental fluctuations.
 
-#### ⚙️ Startup / Check
+### ⚙️ Operating Procedure
+
 #### 🔍 Pre-use Check
 1. Verify the incubator is powered on.
-2. Confirm the temperature setpoint matches experimental requirements (generally set at a temperature value around 25 °C).
-3. Check that internal lighting settings are correct. To do that
+2. Confirm the temperature setpoint matches experimental requirements (between 23 and 25 °C).
+3. Check that internal lighting settings are correct from the external control panel (on the left)
+4. Ensure shelves are clean.
+5. Confirm door seal is intact and closing properly.
 
+#### 🌡️ Temperature / Light Setup
+1. Use the control interface to set the desired temperature.
+2. Allow sufficient stabilization time before inserting cultures.
+3. Configure light module intensity.
+4. Confirm settings are displayed correctly on the panel.
 
-### 🧪 Operating Procedure
-1. Label samples clearly  
-2. Place samples allowing air circulation  
-3. Avoid overcrowding shelves  
-4. Close door securely  
-5. Record conditions if required
+#### 🧫 Loading Cultures
+1. Clearly label all containers.
+2. Distribute cultures evenly on the orbital shakers across the two shelves.
+3. Avoid overcrowding to maintain air circulation.
+4. Ensure containers are sealed appropriately.
+5. Close the door firmly.
 
-### 🧹 After Use
-- Remove samples
-- Clean spills immediately
-- Return shelves to original layout
-- Log usage if applicable
+#### 👀 During Operation
+- Minimize door opening.
+- Check for condensation or spills.
+- Ensure lighting cycle is functioning as expected, specially after a possible change of settings. 
 
-### ⚠️ Safety Notes
-- Do not store volatile chemicals
-- Avoid frequent door opening
-- Report abnormal temperature drift
-
+#### ⚠️ Good Practice Notes
+- Avoid placing heat-generating devices inside.
+- Do not block internal airflow.
+- Report persistent temperature deviations.
+- Handle light module settings consistently.
 
 
 

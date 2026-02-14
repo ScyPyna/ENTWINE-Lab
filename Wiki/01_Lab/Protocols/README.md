@@ -1,6 +1,7 @@
 # 🧑🏽‍🔬 Experimental Protocols
 This section contains all standardized procedures for common laboratory experiments and culture maintenance. 
-Each protocol provides step-by-step instructions, required materials, and safety notes to ensure reproducibility and safe practice in the lab.
+Each protocol provides step-by-step instructions, required materials, and safety notes to ensure reproducibility and safe practice in the lab. 
+When preparing TAP medium, chemicals should be handled using gloves and lab coat. 
 
 ---
 
@@ -63,7 +64,7 @@ Preparing the medium from stock solutions ensures accurate and reproducible nutr
 ## 🧪 1 M Potassium Phosphate Stock Solution (pH 7.2, for TAP Medium)
 
 ### 🎯 Purpose
-Preparation of 1 M potassium phosphate stock solution for use in TAP medium.
+Preparation of 1 M potassium phosphate stock solution for use in TAP medium. The Potassium Phosphate Stock Solution provides phosphate ions and helps buffer the pH.
 ---
 
 ### 📋 Materials (for 100 mL)
@@ -105,8 +106,56 @@ NOTE: Pay attention to the phosphate salts you're using! (check if hydrated or n
 
 ---
 
-### ⚠️ Safety Notes
-- Handle chemicals with gloves and lab coat.  
-- Use sterile technique to avoid contamination.  
+### ⚠️ Safety Notes 
 - Autoclave according to lab safety protocols.
+
+---
+---
+## 🧪 TAP Salts Stock Solution
+
+### 🎯 Purpose
+The TAP Salts Stock Solution provides essential macroelements (nitrogen, calcium, magnesium, and sulfur) required for the growth of *Chlamydomonas* cultures. In TAP medium, this solution supplies the main ionic nutrients.
+
+---
+
+### 📋 Materials (for 500 mL)
+
+**Chemicals**
+- Milli-Q water (~500 mL total)  
+- NH4Cl (MW 53.49): 8 g  
+- CaCl2·2H2O (MW 147.01): 1 g  
+- MgSO4·7H2O (MW 246.36): 2 g  
+
+
+**Utensils**
+- 1 × 1 L beaker  
+- 1 × 500 mL measuring cylinder  
+- 1 × 500 mL bottle for storage  
+- 3 × spatula  
+- 1 × magnetic stir bar  
+- 1 × magnetic stirrer  
+
+Note: you can use a 50 mL falcon to weight.
+
+---
+
+### ⚙️ Procedure
+
+1. Pour ~250 mL of Milli-Q water into the beaker.  
+2. Add NH4Cl, CaCl2·2H2O, and MgSO4·7H2O in the amounts listed.  
+3. Stir with a magnetic stirrer until fully dissolved.  
+4. Transfer the solution to the measuring cylinder and bring the volume to 500 mL with Milli-Q water.  
+5. Pour the solution into a storage bottle and autoclave.  
+
+---
+
+### 🧹 Storage
+- Wrap the bottle with aluminum foil to protect from light.  
+- Store in the refrigerator until use.  
+
+---
+
+### ⚠️ Safety Notes
+- Autoclave according to lab safety protocols.
+
 

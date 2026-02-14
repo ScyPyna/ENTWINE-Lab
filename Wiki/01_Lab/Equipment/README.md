@@ -1,4 +1,4 @@
-## 🧰 Equipment
+# 🧰 Equipment
 This section describes the standard operation procedures for our laboratory equipment. 
 
 ## 🌡️ Incubator
@@ -8,3 +8,4 @@ The incubator is used to provide controlled temperature conditions for the growt
 ```markdown
 ![Control panel](images/incubator.jpg)
 ![Internal layout](images/incubatorinside.jpg)
+

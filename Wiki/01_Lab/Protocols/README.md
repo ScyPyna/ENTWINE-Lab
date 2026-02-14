@@ -158,4 +158,68 @@ Note: you can use a 50 mL falcon to weight.
 ### ⚠️ Safety Notes
 - Autoclave according to lab safety protocols.
 
+---
+---
+
+## 🧪 TAP Solid Medium Slants 
+
+### 🎯 Purpose
+Preparation of agar-based TAP medium slants (e.g., in Falcon tubes) for lab stocks of *Chlamydomonas*. Yeast extract is added to monitor possible contamination. Each slant receives ~15 mL of medium. The total volume of liquid TAP required is calculated as: V=15xN mL where where **N** is the number of slants.
+
+---
+
+### 📋 Materials (for ~33 slants, 500 mL liquid TAP)
+
+**Chemicals**
+- Liquid TAP medium: 500 mL  
+- Yeast extract: 2 g (0.4% w/v)  
+- Agar powder: 7.5 g (1.5% w/v)  
+
+**Utensils**
+- 1 × 1000 mL Erlenmeyer flask  
+- 2 × spatula  
+- 1 × magnetic stir bar  
+- 1 × magnetic stirrer  
+- 33 × sterile Falcon tubes  
+- 1 × tilted support for slants  
+- 25 mL serological pipettes  
+
+---
+
+### ⚙️ Procedure
+
+1. Pour liquid TAP into the Erlenmeyer flask.  
+2. Add Yeast extract and agar powder while stirring with the magnetic stirrer.  
+Stir until most powder is dissolved (remaining powder dissolves during autoclaving).  
+3. Close the flask with aluminum foil, apply autoclave tape, and autoclave.  
+4. While autoclaving, label all Falcon tubes: *TAP + Yeast extract (date)*.  
+5. After autoclaving, allow the flask to cool to ~70–80 °C. Use gloves to avoid burns.  
+6. Under a laminar flow hood, and while the solution is still warm (>45 °C), pour 15 mL into each Falcon tube using a 25 mL serological pipette.  
+Change pipette every ~5 transfers to limit contamination. Place tubes on a tilted support and fill them trying not to pass over the falcon with your hands
+Keep lids off, placed upright on the hood bench.  
+7. Allow the slants to solidify for at least 4 h under the laminar flow hood. Leaving them in these conditions overnight is fine as well. 
+8. Replace lids once solidified.
+
+---
+
+### 🧹 Storage
+- Store slants in the refrigerator until use. 
+- One of then can be stored in the incubator at 25 °C in order to see the possible growth of bacteria or other contaminants. 
+
+---
+
+### 📝 Notes on *Chlamydomonas* Agar Cultures
+- Refresh agar cultures every ~3 months.  
+- Keep track of the date of the most recent agar culture (not the date of slant preparation!).  
+- Maintain the **two most recent agar cultures** per strain to recover from possible contamination.  
+- ~3 days before transferring to a new slant, place the slant with Yeast extract in a diurnal chamber to check for contamination.
+
+---
+
+### ⚠️ Safety Notes
+- Work under a laminar flow hood to maintain sterility.  
+- Handle autoclaved medium carefully to avoid burns.
+
+
+
 

@@ -58,7 +58,7 @@ The first type consists of simple, rapidly assembled chambers with uncontrolled 
 
 • Weight (e.g., a beaker or other heat-resistant object)
 
-• Vaseline or additional parafilm (for sealing)
+• Vaseline (for sealing)
 
 ### 📋 Procedure
 #### Cleaning
@@ -84,9 +84,9 @@ This produces spacers with a thickness of roughly 50 µm.
 • Inject approximately 20–25 µL of sample solution (depending on the final chamber area).
 
 #### Final sealing
-• Seal the open sides using vaseline or parafilm.
+• Seal the open sides using parafilm.
 
-When sealed with parafilm, the chamber can be washed and reused multiple times.
+These chambers are disposable and not suitable for cleaning or reuse.
 
 --- 
 
@@ -230,5 +230,6 @@ After 30–40 seconds (max 1 minute), turn off.
 • Apply gentle pressure along the edges using tweezers.
 
 • Leave on the plate for 5–10 minutes to reinforce sealing.
+
 
 

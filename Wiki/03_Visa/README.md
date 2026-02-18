@@ -31,6 +31,11 @@ Book an Appointment with the Italian Embasy in your country via VFS.global, corr
 The link is https://www.vfsglobal.com/en/individuals/index.html
 Ensure your appointment is 15 calender days before you travel.
 
-Print and give to them all the documents from Step 1, if there is anything missing they will contact you via email.
+Print and give to them all the documents from Step 1 when you go to your appointment. 
+If there is anything missing they will contact you via email, sure make sure you keep an eye on your mail.
+
+At the appointment they will take your passport from you, then when the process is finished they will mail the passport with the visa inside to your home address. Make sure you keep an eye on the number you give to them and that you are in the day they deliver the Visa, since they need to give it tou directly.
+
+## Now you are set and ready to go!
 
 

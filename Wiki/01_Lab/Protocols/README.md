@@ -220,6 +220,16 @@ Keep lids off, placed upright on the hood bench.
 - Work under a laminar flow hood to maintain sterility.  
 - Handle autoclaved medium carefully to avoid burns.
 
+---
+
+## 🧊 Freezing of cultures
+prepare 5/10 samples to freeze for each culture
+- centrifuge 1 to 10mL of microalge in TAP (in exponential growth)
+- resuspend the pellet in 900µL of TAP and 100µL of DMSO
+- put them at 4$^$C for 1hr
+- put them at -20$^$C for 1hr
+- store them at -80$^$C
+
 
 
 

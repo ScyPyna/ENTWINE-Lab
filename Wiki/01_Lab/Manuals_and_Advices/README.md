@@ -41,7 +41,7 @@ User manual ⏩ [BINDER-Plant-Light-Module-operating-manual.pdf](https://github.
 
 Technical datasheet including configuration, control settings, and light output specifications ⏩ [K2 LED Plant Light Module Data Sheet.pdf](https://github.com/user-attachments/files/25325346/K2.LED.Plant.Light.Module.Data.Sheet.pdf)
 
-[🔝 Back to top](#protocols-index)
+[🔝 Back to top](#index)
 
 ---
 ---
@@ -67,7 +67,7 @@ The autoclave must only be opened when the pressure gauge reads 0 bar. Opening t
 
 These precautions are fundamental baseline practices and do not replace the detailed operating procedures described in the official instrument manual.
 
-[🔝 Back to top](#protocols-index)
+[🔝 Back to top](#index)
 
 ---
 ---
@@ -282,6 +282,7 @@ Flasks used for culturing algae require additional attention due to possible bio
 - Sterilise according to standard lab autoclave protocol.
 
 [🔝 Back to top](#index)
+
 
 
 

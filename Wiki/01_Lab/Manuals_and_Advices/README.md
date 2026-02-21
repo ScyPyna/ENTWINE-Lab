@@ -1,10 +1,18 @@
 # 📚 Manuals and Advices
-
-This section is dedicated to collecting user manuals and practical advice for daily laboratory work.
+- This section is dedicated to collecting user manuals and practical advice for daily laboratory work.
 It aims to provide quick access to documentation related to instruments, equipment, and standard procedures, as well as tips derived from hands-on experience that may facilitate efficient operation.
 Whenever available, official manuals are attached alongside concise notes to help users navigate common tasks or troubleshoot routine issues.
+---
+# Index
+- [Laminar Flow Hood](#-laminar-flow-hood)
+- [Incubator](#-autoclave)
+- [Microfluidic Chambers for Algal Observation](#-microfluidic-chambers-for-algal-observation)
+- [pH-meter: Use and Calibration](#-ph-meter--use-and-calibration)
+- [Glassware: cleaning and manteinance](#-glassware-cleaning-and-maintenance)
 
 ---
+---
+
 ## 💨 Laminar Flow Hood
 Laminar Flow Hood – Essential Guidelines
 
@@ -13,15 +21,11 @@ Laminar Flow Hood – Essential Guidelines
 
 Before consulting the full external guide, the following five rules must always be respected when working under the laminar flow hood:
 
-⚠️ **1. Disinfect everything before starting**: Clean the working surface and all materials with 70% ethanol before placing them inside the hood.
-
-⚠️ **2. Work at least 10 minutes after switching it on**: Allow proper airflow stabilization before beginning any sterile manipulation; you can see the air flow level from the red light on the right top of the hood.
-
-⚠️ **3. Never block the airflow**: Do not obstruct rear or front grills. Arrange materials to maintain a clear laminar flow from back to front.
-
-⚠️ **4. Move slowly and deliberately**: Rapid movements create turbulence and compromise sterility.
-
-⚠️ **5. Keep the sash at the correct height**: Operate only at the recommended opening level to maintain proper airflow and personal protection.
+1. **Disinfect everything before starting**: Clean the working surface and all materials with 70% ethanol before placing them inside the hood.
+2. **Work at least 10 minutes after switching it on**: Allow proper airflow stabilization before beginning any sterile manipulation; you can see the air flow level from the red light on the right top of the hood.
+3. **Never block the airflow**: Do not obstruct rear or front grills. Arrange materials to maintain a clear laminar flow from back to front.
+4. **Move slowly and deliberately**: Rapid movements create turbulence and compromise sterility.
+5. **Keep the sash at the correct height**: Operate only at the recommended opening level to maintain proper airflow and personal protection.
 
 For a detailed explanation of laminar flow hood operation, cleaning procedures, and aseptic technique best practices, refer to ⏩ [Laminar Flow Hood: Essential Cleaning Tips and Best Practices](https://plantcelltechnology.com/blogs/blog/laminar-flow-hood-essential-cleaning-tips-and-best-practices)
 
@@ -343,4 +347,5 @@ Flasks used for culturing algae require additional attention due to possible bio
 • Dry and prepare for sterilisation, by covering openings with aluminium foil.
 
 • Sterilise according to standard lab autoclave protocol.
+
 

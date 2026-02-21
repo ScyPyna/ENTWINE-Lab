@@ -5,6 +5,28 @@ It aims to provide quick access to documentation related to instruments, equipme
 Whenever available, official manuals are attached alongside concise notes to help users navigate common tasks or troubleshoot routine issues.
 
 ---
+## 💨 Laminar Flow Hood
+Laminar Flow Hood – Essential Guidelines
+
+<img width="511" height="394" alt="image" src="https://github.com/user-attachments/assets/2d0833ff-7b36-41ac-957d-3296b4973eff" />
+
+
+Before consulting the full external guide, the following five rules must always be respected when working under the laminar flow hood:
+
+⚠️ **1. Disinfect everything before starting**: Clean the working surface and all materials with 70% ethanol before placing them inside the hood.
+
+⚠️ **2. Work at least 10 minutes after switching it on**: Allow proper airflow stabilization before beginning any sterile manipulation; you can see the air flow level from the red light on the right top of the hood.
+
+⚠️ **3. Never block the airflow**: Do not obstruct rear or front grills. Arrange materials to maintain a clear laminar flow from back to front.
+
+⚠️ **4. Move slowly and deliberately**: Rapid movements create turbulence and compromise sterility.
+
+⚠️ **5. Keep the sash at the correct height**: Operate only at the recommended opening level to maintain proper airflow and personal protection.
+
+For a detailed explanation of laminar flow hood operation, cleaning procedures, and aseptic technique best practices, refer to ⏩ [Laminar Flow Hood: Essential Cleaning Tips and Best Practices](https://plantcelltechnology.com/blogs/blog/laminar-flow-hood-essential-cleaning-tips-and-best-practices)
+
+This guide provides additional background on airflow principles and practical recommendations for maintaining sterility during laboratory procedures.
+
 ---
 ## 🌡️ Incubator 
 User manual ⏩ [BINDER-Plant-Light-Module-operating-manual.pdf](https://github.com/user-attachments/files/25325290/BINDER-Plant-Light-Module-operating-manual.pdf)
@@ -231,5 +253,94 @@ After 30–40 seconds (max 1 minute), turn off.
 
 • Leave on the plate for 5–10 minutes to reinforce sealing.
 
+---
 
+## 🧪 pH Meter – Use and Calibration 
+<img width="645" height="581" alt="image" src="https://github.com/user-attachments/assets/f7f4451b-56b6-4d19-82a9-f0f70413090e" />
+
+
+
+Accurate pH adjustment is essential for TAP medium preparation. The target pH is 7.2 ± 0.1, measured at room temperature.
+
+### Before Measurement: The pH meter must always be calibrated before use. 
+• Turn on the pH meter and allow it to stabilise.
+
+• Rinse the electrode with Milli-Q water (distilled is fine as well) and gently blot dry (do not rub).
+
+• Immerse the electrode in the pH 7.00 buffer and calibrate according to the instrument instructions.
+
+• Rinse and repeat with pH 4.00 buffer (and pH 10.00 if performing a three-point calibration).
+
+• Confirm that the slope and offset values are within acceptable limits (as specified by the manufacturer).
+
+⚠️ Always calibrate at room temperature and ensure buffers are not expired or contaminated.
+
+• For **manual calibration**, after buffer measurements adjust manually using the calibration knob/button until the display reads exactly the value we want.
+
+
+### Measuring the pH of TAP Medium
+• Stop magnetic stirring before measuring. Measuring under stirring can give unstable readings.
+
+• Immerse the electrode into the solution without touching the beaker walls or bottom. Wait until the reading stabilises. 
+
+Remember the expected value is pH 7.2 ± 0.1.
+
+### Adjusting the pH
+• If pH is too high → add small amounts (a few hundred µL) of 1 M HCl 
+
+• If pH is too low → add small amounts of 1 M NaOH or KOH
+
+• After each addition mix thoroughly, then stop stirring and measure again. Repeat until the correct pH is reached.
+
+⚠️ Add acid/base gradually. Overshooting requires restarting the preparation.
+
+### After Use
+• Rinse the electrode with Milli-Q water. 
+
+• Store it in the appropriate storage solution (never dry unless specified by manufacturer).
+
+• Turn off the instrument.
+
+---
+
+## 🧼 Glassware Cleaning and Maintenance
+
+Proper cleaning of laboratory glassware is essential to prevent contamination, chemical interference, and biofilm formation. This is particularly important for flasks used for algal cultivation.
+
+### General Glassware Cleaning Procedure
+
+This procedure applies to beakers, measuring cylinders, bottles, and general-use glassware.
+
+#### 1. Immediate Rinsing
+
+After use, rinse glassware thoroughly with tap water to remove residues before they dry.
+
+#### 2. Detergent Wash
+
+Wash using laboratory detergent and water.
+Use a dedicated brush when necessary (especially for narrow-neck flasks).
+
+#### 3. Thorough Rinsing
+
+Rinse extensively with tap water to remove all detergent traces.
+Follow with at least one rinse using distilled or Milli-Q water.
+
+Residual detergent may interfere with cell growth.
+
+#### 4. Drying
+
+Allow to air-dry upside down on a clean drying rack.
+Alternatively, dry in an oven if appropriate.
+
+#### 🌱 Cleaning of Algal Culture Flasks (Erlenmeyers)
+
+Flasks used for culturing algae require additional attention due to possible biofilm formation.
+
+• Discard culture following biological waste procedures.
+
+• Wash with bleach and leave for a few minutes, then brush thoroughly to remove algal residues from the walls and rinse with tap water.
+
+• Dry and prepare for sterilisation, by covering openings with aluminium foil.
+
+• Sterilise according to standard lab autoclave protocol.
 

@@ -22,46 +22,29 @@ Remember to handle chemicals with care when preparing TAP medium, and always wea
 This protocol describes how to start a fresh Chlamydomonas liquid culture in TAP medium under sterile conditions.
 
 ### 🛠️ Materials
-
-• agar slant;
-
-• sterile Erlenmeyer flask; 
-(*appropriate volume*: the working volume should not exceed approximately 50–70% of the total flask capacity, 
-in order to allow adequate aeration and prevent oxygen limitation)  
-
-• cellulose lid to close the flask;
-
-• sterile TAP medium;
-
-• sterile polystyrene inoculating 1 μL loops.
+- agar slant;
+- sterile Erlenmeyer flask (*appropriate volume*: the working volume should not exceed approximately 50–70% of the total flask capacity, 
+in order to allow adequate aeration and prevent oxygen limitation);
+- cellulose lid to close the flask;
+- sterile TAP medium;
+- sterile polystyrene inoculating 1 μL loops.
 
 
 
 ### ⚙️ Procedure 
-
 1. Work under the laminar flow hood.
-
 2. Open the agar slant carefully.
-
 3. Gently touch the surface of the algal colony with the loop. Avoid digging into the agar. A small amount of biomass is sufficient to cover the inside of the loop.
-
 4. Open the sterile flask containing liquid TAP. Keep the opening exposure time as short as possible.
-
 5. Insert the loop into the medium and gently swirl to release the cells.
-
 6. Close the flask.
-
-7. Label with: Strain - Your initials - Date - other data that might be necessary to distinguish the culture (above all when more than one is growing in the incubator)
-
+7. Label with: Strain - Your initials - Date - other data that might be necessary to distinguish the culture (above all when more than one is growing in the incubator). 
 8. Incubate under standard growth conditions.
 
-📈 Culture Conditions
-
-• Temperature: 22–25 °C
-
-• 16 hours of light / 8 hours of dark - 9% cool light; 9% white light
-
-• 160 rpm agitation
+📈 **Culture Conditions**
+- Temperature: 22–25 °C
+- 16 hours of light / 8 hours of dark - 9% cool light; 9% white light
+- 160 rpm agitation
 
 ⚠️ **Important Considerations**
 
@@ -107,34 +90,33 @@ Preparing the medium from stock solutions ensures accurate and reproducible nutr
 ### 📋 Materials
 
 **Chemicals**
-• Milli-Q water (~1 L total)  
-• Tris (or Trizma) base, MW 121.14: 2.42 g  
-• TAP Salts Stock Solution (sterile, refrigerated): 25 mL  
-• Hutner's Trace Metal Solution (sterile, refrigerated, from Chlamy Culture Center): 1 mL  
-• Glacial Acetic Acid (use under **fume hood**!): 1 mL  
-• TAP Phosphate Stock Solution (sterile, refrigerated, added after autoclaving): 1 mL  
+- Milli-Q water (~1 L total)
+- Tris (or Trizma) base, MW 121.14: 2.42 g
+- TAP Salts Stock Solution (sterile, refrigerated): 25 mL
+- Hutner's Trace Metal Solution (sterile, refrigerated, from Chlamy Culture Center): 1 mL
+- Glacial Acetic Acid (use under **fume hood**!): 1 mL
+- TAP Phosphate Stock Solution (sterile, refrigerated, added after autoclaving): 1 mL  
 
 **Utensils**
-• 1 × 1 L beaker  
-• 1 × 500 mL measuring cylinder  
-• 1 × 1 L bottle for storage  
-• 1 × spatula  
-• 1 × magnetic stir bar  
-• 1 × magnetic stirrer  
-• pH meter (calibrated with buffers)  
+- 1 × 1 L beaker
+- 1 × 500 mL measuring cylinder
+- 1 L bottle for storage
+- 1 × spatula
+- 1 × magnetic stir bar
+- 1 × magnetic stirrer
+- pH meter (calibrated with buffers)  
 
 ---
 
 ### ⚙️ Procedure
-
-1. In the beaker, pour ~250 mL of Milli-Q water.  
-2. Add Tris base (2.42 g) and stir using the magnetic stirrer (~600 rpm) until fully dissolved (~15–20 min).  
-3. Add TAP Salts Stock Solution (25 mL), Hutner's Trace Metal Solution (1 mL), and Glacial Acetic Acid (1 mL, under fume hood), in that order. Continue stirring until homogeneous.  
-4. Transfer solution to 500 mL measuring cylinder. Add Milli-Q water to reach 500 mL, then pour back into the beaker. Repeat to reach total volume of 1 L.  
-5. Mix thoroughly on the magnetic stirrer.  
-6. Measure pH (after stopping stirring). Target: 7.2 ± 0.1. Adjust with 1 M HCl or NaOH (or KOH) in small increments if needed.  
-7. Pour solution into 1 L bottle, seal, apply autoclave tape, and label: *TAP-P (date)*. The "-P" indicates phosphate has not yet been added.  
-8. Autoclave the bottle.  
+1. In the beaker, pour ~250 mL of Milli-Q water.
+2. Add Tris base (2.42 g) and stir using the magnetic stirrer (~600 rpm) until fully dissolved (~15–20 min).
+3. Add TAP Salts Stock Solution (25 mL), Hutner's Trace Metal Solution (1 mL), and Glacial Acetic Acid (1 mL, under fume hood), in that order. Continue stirring until homogeneous.
+4. Transfer solution to 500 mL measuring cylinder. Add Milli-Q water to reach 500 mL, then pour back into the beaker. Repeat to reach total volume of 1 L.
+5. Mix thoroughly on the magnetic stirrer.
+6. Measure pH (after stopping stirring). Target: 7.2 ± 0.1. Adjust with 1 M HCl or NaOH (or KOH) in small increments if needed.
+7. Pour solution into 1 L bottle, seal, apply autoclave tape, and label: *TAP-P (date)*. The "-P" indicates phosphate has not yet been added.
+8. Autoclave the bottle.
 9. Once cooled, add 1 mL TAP Phosphate Stock Solution under a laminar flow hood to maintain sterility. Don't forget to turn the - into a +!
 
 ---
@@ -156,27 +138,27 @@ Preparing the medium from stock solutions ensures accurate and reproducible nutr
 
 ## 🧪 1 M Potassium Phosphate Stock Solution
 
-### 🎯 Purpose
-Preparation of 1 M potassium phosphate stock solution for use in TAP medium. The Potassium Phosphate Stock Solution provides phosphate ions and helps buffer the pH.
+### 🎯 Purpose 
+- Preparation of 1 M potassium phosphate stock solution for use in TAP medium. The Potassium Phosphate Stock Solution provides phosphate ions and helps buffer the pH.
 ---
 
 ### 📋 Materials (for 100 mL)
 
 **Chemicals**
-- Milli-Q water (~100 mL total)  
-- Potassium Phosphate monobasic (KH2PO4): 3.85 g  
+- Milli-Q water (~100 mL total)
+- Potassium Phosphate monobasic (KH2PO4): 3.85 g
 - Potassium Phosphate dibasic (K2HPO4): 12.49 g  
 
 NOTE: Pay attention to the phosphate salts you're using! (check if hydrated or not)
 
 **Utensils**
-• 1 × 100 mL beaker  
-• 1 × 100 mL measuring cylinder  
-• 1 × 100 mL bottle for storage  
-• 2 × spatula  
-• 1 × magnetic stir bar  
-• 1 × magnetic stirrer  
-• pH meter (calibrated with buffers)  
+- 1 × 100 mL beaker
+- 1 × 100 mL measuring cylinder
+- 1 × 100 mL bottle for storage
+- 2 × spatula
+- 1 × magnetic stir bar
+- 1 × magnetic stirrer
+- pH meter (calibrated with buffers)  
 
 ---
 
@@ -217,19 +199,19 @@ The TAP Salts Stock Solution provides essential macroelements (nitrogen, calcium
 ### 📋 Materials (for 500 mL)
 
 **Chemicals**
-• Milli-Q water (~500 mL total)  
-• NH4Cl (MW 53.49): 8 g  
-• CaCl2·2H2O (MW 147.01): 1 g  
-• MgSO4·7H2O (MW 246.36): 2 g  
+- Milli-Q water (~500 mL total)
+- NH4Cl (MW 53.49): 8 g
+- CaCl2·2H2O (MW 147.01): 1 g
+- MgSO4·7H2O (MW 246.36): 2 g  
 
 
 **Utensils**
-• 1 × 1 L beaker  
-• 1 × 500 mL measuring cylinder  
-• 1 × 500 mL bottle for storage  
-• 3 × spatula  
-• 1 × magnetic stir bar  
-• 1 × magnetic stirrer  
+- 1 × 1 L beaker
+- 1 × 500 mL measuring cylinder
+- 1 × 500 mL bottle for storage
+- 3 × spatula
+- 1 × magnetic stir bar
+- 1 × magnetic stirrer  
 
 Note: you can use a 50 mL falcon to weight.
 
@@ -269,18 +251,18 @@ Preparation of agar-based TAP medium slants (e.g., in Falcon tubes) for lab stoc
 ### 📋 Materials (for ~33 slants, 500 mL liquid TAP)
 
 **Chemicals**
-• Liquid TAP medium: 500 mL  
-• Yeast extract: 2 g (0.4% w/v)  
-• Agar powder: 7.5 g (1.5% w/v)  
+- Liquid TAP medium: 500 mL
+- Yeast extract: 2 g (0.4% w/v)
+- Agar powder: 7.5 g (1.5% w/v)  
 
 **Utensils**
-• 1 × 1000 mL Erlenmeyer flask  
-• 2 × spatula  
-• 1 × magnetic stir bar  
-• 1 × magnetic stirrer  
-• 33 × sterile Falcon tubes  
-• 1 × tilted support for slants  
-• 25 mL serological pipettes  
+- 1 × 1000 mL Erlenmeyer flask
+- 2 × spatula
+- 1 × magnetic stir bar
+- 1 × magnetic stirrer
+- 33 × sterile Falcon tubes
+- 1 × tilted support for slants
+- 25 mL serological pipettes  
 
 ---
 
@@ -324,14 +306,17 @@ Keep lids off, placed upright on the hood bench.
 ---
 
 ## 🧊 Freezing of cultures
-prepare 5/10 samples to freeze for each culture
-• centrifuge 1 to 10mL of microalge in TAP (in exponential growth)
-• resuspend the pellet in 900µL of TAP and 100µL of DMSO
-• put them at 4°C for 1hr
-• put them at -20°C for 1hr
-• store them at -80°C
+
+Prepare 5/10 samples to freeze for each culture.
+
+1. centrifuge 1 to 10mL of microalge in TAP (in exponential growth)
+2. resuspend the pellet in 900µL of TAP and 100µL of DMSO
+3. put them at 4°C for 1hr
+4. put them at -20°C for 1hr
+5. store them at -80°C
 
 [🔝 Back to top](#protocols-index)
+
 
 
 

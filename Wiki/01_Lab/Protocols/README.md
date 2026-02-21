@@ -6,13 +6,13 @@ When preparing TAP medium, chemicals should be handled using gloves and lab coat
 ---
 
 # Protocols index 
-- [🌱 Inoculation of Algae and Initiation of a Liquid Culture from Agar Slant](#inoculation-of-algae-and-initiation-of-a-liquid-culture-from-agar-slant)
-- [📈 Algal Dilution Scheme](#algal-dilution-scheme)
-- [🧪 Preparation of TAP Algal Medium](#preparation-of-tap-algal-medium)
-- [🧪 1 M Potassium Phosphate Stock Solution](#1-m-potassium-phosphate-stock-solution)
-- [🧪 TAP Salts Stock Solution](#tap-salts-stock-solution)
-- [🧪 TAP Solid Medium Slants](#tap-solid-medium-slants)
-- [🧊 Freezing of cultures](#freezing-of-cultures)
+- [Inoculation of Algae and Initiation of a Liquid Culture from Agar Slant](#inoculation-of-algae-and-initiation-of-a-liquid-culture-from-agar-slant)
+- [Algal Dilution Scheme](#algal-dilution-scheme)
+- [Preparation of TAP Algal Medium](#preparation-of-tap-algal-medium)
+- [1 M Potassium Phosphate Stock Solution](#1-m-potassium-phosphate-stock-solution)
+- [TAP Salts Stock Solution](#tap-salts-stock-solution)
+- [TAP Solid Medium Slants](#tap-solid-medium-slants)
+- [Freezing of cultures](#freezing-of-cultures)
 
 ---
 
@@ -328,6 +328,7 @@ prepare 5/10 samples to freeze for each culture
 • store them at -80°C
 
 [🔝 Back to top](#protocols-index)
+
 
 
 

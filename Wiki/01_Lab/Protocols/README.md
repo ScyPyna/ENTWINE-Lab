@@ -1,7 +1,8 @@
 # 🧑🏽‍🔬 Experimental Protocols
-This section contains all standardized procedures for common laboratory experiments and culture maintenance. 
-Each protocol provides step-by-step instructions, required materials, and safety notes to ensure reproducibility and safe practice in the lab. 
-When preparing TAP medium, chemicals should be handled using gloves and lab coat. 
+Welcome to the Experimental Protocols section! 
+Here you’ll find all the step-by-step procedures for common lab experiments and culture maintenance. 
+Each protocol includes the materials you’ll need, clear instructions, and important safety tips to make sure your work is both reproducible and safe. 
+Remember to handle chemicals with care when preparing TAP medium, and always wear gloves and a lab coat.
 
 ---
 
@@ -22,19 +23,22 @@ This protocol describes how to start a fresh Chlamydomonas liquid culture in TAP
 
 ### 🛠️ Materials
 
-• agar slant
+• agar slant;
 
-• sterile Erlenmeyer flask (*appropriate volume*: the working volume should not exceed approximately 50–70% of the total flask capacity, in order to allow adequate aeration and prevent oxygen limitation)  
+• sterile Erlenmeyer flask; 
+(*appropriate volume*: the working volume should not exceed approximately 50–70% of the total flask capacity, 
+in order to allow adequate aeration and prevent oxygen limitation)  
 
-• cellulose lid to close the flask 
+• cellulose lid to close the flask;
 
-• sterile TAP medium
+• sterile TAP medium;
 
-• sterile polystyrene inoculating 1 μL loops 
+• sterile polystyrene inoculating 1 μL loops.
 
 
 
 ### ⚙️ Procedure 
+
 1. Work under the laminar flow hood.
 
 2. Open the agar slant carefully.
@@ -328,6 +332,7 @@ prepare 5/10 samples to freeze for each culture
 • store them at -80°C
 
 [🔝 Back to top](#protocols-index)
+
 
 
 

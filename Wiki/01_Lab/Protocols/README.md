@@ -1,5 +1,5 @@
 # 🧑🏽‍🔬 Experimental Protocols
-Welcome to the Experimental Protocols section! 
+- Welcome to the Experimental Protocols section! 
 Here you’ll find all the step-by-step procedures for common lab experiments and culture maintenance. 
 Each protocol includes the materials you’ll need, clear instructions, and important safety tips to make sure your work is both reproducible and safe. 
 Remember to handle chemicals with care when preparing TAP medium, and always wear gloves and a lab coat.
@@ -316,6 +316,7 @@ Prepare 5/10 samples to freeze for each culture.
 5. store them at -80°C
 
 [🔝 Back to top](#protocols-index)
+
 
 
 

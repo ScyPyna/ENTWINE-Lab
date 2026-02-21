@@ -4,8 +4,12 @@ Each protocol provides step-by-step instructions, required materials, and safety
 When preparing TAP medium, chemicals should be handled using gloves and lab coat. 
 
 ---
+# Protocols index 
+- [🌱 Inoculation of Algae and Initiation of a Liquid Culture from Agar Slant](##inoculation-of-algae-and-initiation-of-a-liquid-culture-from-agar-slant)
 
-## 🌱 Inoculation of Algae and Initiation of a New Liquid TAP Culture from Agar Slant
+---
+
+## 🌱 Inoculation of Algae and Initiation of a Liquid Culture from Agar Slant
 
 This protocol describes how to start a fresh Chlamydomonas liquid culture in TAP medium under sterile conditions.
 
@@ -22,42 +26,54 @@ This protocol describes how to start a fresh Chlamydomonas liquid culture in TAP
 • Sterile polystyrene inoculating loops 1 μL
 
 
-⚙️ Procedure 
+### ⚙️ Procedure 
+• Work under the laminar flow hood.
 
-Place the slant under the laminar flow hood.
+• Open the agar slant carefully.
 
-Add a small volume of sterile TAP (1–2 mL) to the slant.
+• Gently touch the surface of the algal colony with the loop. Avoid digging into the agar. A small amount of biomass is sufficient to cover the inside of the loop.
 
-Gently resuspend cells using a sterile pipette tip.
+• Open the sterile flask containing liquid TAP. Keep the opening exposure time as short as possible.
 
-Transfer the suspension into fresh liquid TAP.
+• Insert the loop into the medium and gently swirl to release the cells.
 
-Incubate under standard growth conditions.
+• Close the flask.
+
+• Label with: Strain - Your initials - Date - other data that might be necessary to distinguish the culture (above all when more than one is growing in the incubator)
+
+• Incubate under standard growth conditions.
 
 📈 Culture Conditions
 
-Typical conditions for Chlamydomonas reinhardtii:
+• Temperature: 22–25 °C
 
-Temperature: 22–25 °C
+• 16 hours of light / 8 hours of dark - 9% cool light; 9% white light
 
-Continuous or diurnal light cycle
+• 160 rpm agitation
 
-Gentle agitation (if required for aeration)
-
-⚠️ Important Considerations
+⚠️ **Important Considerations**
 
 Do not over-inoculate. High initial density may lead to early nutrient depletion.
-
 Always check for contamination (turbidity, unusual colour, bacterial growth).
+Record inoculation date to monitor growth phase progression through pictures. 
 
-Record inoculation date to monitor growth phase progression.
+---
+## 📈 Algal Dilution Scheme
 
+To maintain cultures in exponential growth phase, dilutions are performed according to the expected growth rate of the algae.
+Under standard laboratory conditions, Chlamydomonas cultures approximately triple in cell density every 24 hours.
+The following dilution scheme compensates for this daily threefold increase and allows cultures to return to an appropriate starting density.
 
+### Standard Dilution Scheme
+| Growth Interval          | Dilution (mL culture + mL fresh TAP) | Final Volume |
+| ------------------------ | ------------------------------------ | ------------ |
+| 1 day                    | 7 + 14                               | 21 mL        |
+| 2 days                   | 3 + 24                               | 27 mL        |
+| 3 days (Friday → Monday) | 1 + 26                               | 27 mL        |
+| 4 days                   | 1 + 80 (or 90 to be safe)            | 81–91 mL     |
+| Alternative (4 days)     | 0.3 + 30                             | 30.3 mL      |
 
-
-
-
-
+The longer the time interval between dilutions, the smaller the inoculum volume required relative to fresh medium. This ensures that the culture does not reach excessive density, which could lead to nutrient depletion, light limitation, or altered physiological states.
 
 ---
 
@@ -285,6 +301,7 @@ prepare 5/10 samples to freeze for each culture
 - put them at 4°C for 1hr
 - put them at -20°C for 1hr
 - store them at -80°C
+
 
 
 

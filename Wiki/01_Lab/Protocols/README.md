@@ -5,6 +5,62 @@ When preparing TAP medium, chemicals should be handled using gloves and lab coat
 
 ---
 
+## 🌱 Inoculation of Algae and Initiation of a New Liquid TAP Culture from Agar Slant
+
+This protocol describes how to start a fresh Chlamydomonas liquid culture in TAP medium under sterile conditions.
+
+### 🛠️ Materials
+
+• Sterile liquid TAP medium
+
+• Agar slant
+
+• Sterile Erlenmeyer flask (*appropriate volume*: the working volume should not exceed approximately 50–70% of the total flask capacity, in order to allow adequate aeration and prevent oxygen limitation) 
+
+• Cellulose lid 
+
+• Sterile polystyrene inoculating loops 1 μL
+
+
+⚙️ Procedure 
+
+Place the slant under the laminar flow hood.
+
+Add a small volume of sterile TAP (1–2 mL) to the slant.
+
+Gently resuspend cells using a sterile pipette tip.
+
+Transfer the suspension into fresh liquid TAP.
+
+Incubate under standard growth conditions.
+
+📈 Culture Conditions
+
+Typical conditions for Chlamydomonas reinhardtii:
+
+Temperature: 22–25 °C
+
+Continuous or diurnal light cycle
+
+Gentle agitation (if required for aeration)
+
+⚠️ Important Considerations
+
+Do not over-inoculate. High initial density may lead to early nutrient depletion.
+
+Always check for contamination (turbidity, unusual colour, bacterial growth).
+
+Record inoculation date to monitor growth phase progression.
+
+
+
+
+
+
+
+
+---
+
 ## 🧪 Preparation of TAP-P Algal Medium 
 
 ### 🎯 Purpose
@@ -229,6 +285,7 @@ prepare 5/10 samples to freeze for each culture
 - put them at 4°C for 1hr
 - put them at -20°C for 1hr
 - store them at -80°C
+
 
 
 

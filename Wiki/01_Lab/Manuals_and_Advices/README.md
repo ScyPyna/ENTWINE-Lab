@@ -53,6 +53,7 @@ Despite common belief, no lab fairy restores benches overnight 🧚🏻. **Clean
 
 Each member is expected to leave the workspace clean, organized, and ready for the next experiment. A tidy lab reflects professionalism, respect for colleagues, and care for the scientific process itself. 
 
+[🔝 Back to top](#index)
 
 ---
 ---
@@ -75,6 +76,8 @@ Each member is expected to leave the workspace clean, organized, and ready for t
 - Never point the beam at reflective surfaces or people.
 - Adjust the power gradually according to your experiment.
 - If the laser has a waveplate or attenuator, verify the actual power before starting sensitive experiments.
+
+[🔝 Back to top](#index)
 
 ---
 ---
@@ -350,6 +353,7 @@ Flasks used for culturing algae require additional attention due to possible bio
 - Sterilise according to standard lab autoclave protocol.
 
 [🔝 Back to top](#index)
+
 
 
 

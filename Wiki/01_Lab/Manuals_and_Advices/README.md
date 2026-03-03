@@ -12,6 +12,48 @@ Whenever available, official manuals are attached alongside concise notes to hel
 
 ---
 ---
+## 🧼 Before You Begin: Cleanliness and Respect 
+Maintaining a clean and organized laboratory environment is essential for ensuring experimental reliability, safety, and **mutual respect among lab members**. A well-kept workspace reduces contamination risks, prevents accidents, and improves overall efficiency.
+
+### 🧪 General Conduct
+
+1. Always clean your workspace before and after each experiment.
+
+2. Disinfect benches after working with biological material.
+
+3. Return all shared equipment to its designated place immediately after use.
+
+4. Clearly label all reagents, cultures, and solutions with name, date, and relevant details.
+
+### 🗑️ Waste Management
+
+1. Dispose of biological waste in designated biohazard containers.
+
+2. Separate chemical waste according to laboratory guidelines.
+
+3. Never discard reagents or cultures in the sink unless explicitly permitted.
+
+4. Replace waste bags or containers when full.
+
+### 🧴 Glassware and Equipment
+
+1. Wash glassware after use or place it in the designated cleaning area.
+
+2. Do not leave dirty material in the sink.
+
+3. Ensure that the equipment is always clean after use.
+
+4. Report malfunctioning equipment promptly.
+
+### 🤝 Shared Responsibility
+
+Despite common belief, no lab fairy restores benches overnight 🧚🏻. **Cleanliness and organization are not the responsibility of a single person, but a shared commitment among all lab members**.
+
+Each member is expected to leave the workspace clean, organized, and ready for the next experiment. A tidy lab reflects professionalism, respect for colleagues, and care for the scientific process itself. 
+
+
+---
+---
 
 ## 💨 Laminar Flow Hood
 Laminar Flow Hood – Essential Guidelines
@@ -282,6 +324,7 @@ Flasks used for culturing algae require additional attention due to possible bio
 - Sterilise according to standard lab autoclave protocol.
 
 [🔝 Back to top](#index)
+
 
 
 

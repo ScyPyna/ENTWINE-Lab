@@ -4,6 +4,7 @@ It aims to provide quick access to documentation related to instruments, equipme
 Whenever available, official manuals are attached alongside concise notes to help users navigate common tasks or troubleshoot routine issues.
 ---
 # Index
+- [Laser](#-laser)
 - [Laminar Flow Hood](#-laminar-flow-hood)
 - [Incubator](#-autoclave)
 - [Microfluidic Chambers for Algal Observation](#-microfluidic-chambers-for-algal-observation)
@@ -12,6 +13,7 @@ Whenever available, official manuals are attached alongside concise notes to hel
 
 ---
 ---
+
 ## 🧼 Before You Begin: Cleanliness and Respect 
 Maintaining a clean and organized laboratory environment is essential for ensuring experimental reliability, safety, and **mutual respect among lab members**. A well-kept workspace reduces contamination risks, prevents accidents, and improves overall efficiency.
 
@@ -47,10 +49,32 @@ Maintaining a clean and organized laboratory environment is essential for ensuri
 
 ### 🤝 Shared Responsibility
 
-Despite common belief, no lab fairy restores benches overnight 🧚🏻. **Cleanliness and organization are not the responsibility of a single person, but a shared commitment among all lab members**.
+Despite common belief, no lab fairy restores benches overnight 🧚🏻. **Cleanliness and organization are not the responsibility of a single person but a shared commitment among all lab members.**
 
 Each member is expected to leave the workspace clean, organized, and ready for the next experiment. A tidy lab reflects professionalism, respect for colleagues, and care for the scientific process itself. 
 
+
+---
+---
+
+## 💡 Laser 
+### Turning On
+1. Switch on the laser using the main power switch. 
+2. Turn on the key.
+3. Set the current value and allow the system to stabilize for a few seconds.
+
+### Turning Off
+1. Reduce the current to the minimum. Wait a few seconds. 
+2. Turn off the key. Wait a few seconds. 
+3. Switch off the laser using the main power switch. 
+
+<img width="619" height="578" alt="laser_instructions" src="https://github.com/user-attachments/assets/65c00403-d8c0-4e3f-a0d6-85ec50b6e46f" />
+
+### Usage Tips
+- Always wear protective goggles suitable for the laser wavelength.
+- Never point the beam at reflective surfaces or people.
+- Adjust the power gradually according to your experiment.
+- If the laser has a waveplate or attenuator, verify the actual power before starting sensitive experiments.
 
 ---
 ---
@@ -60,6 +84,8 @@ Laminar Flow Hood – Essential Guidelines
 
 <img width="511" height="394" alt="image" src="https://github.com/user-attachments/assets/2d0833ff-7b36-41ac-957d-3296b4973eff" />
 
+
+<img width="1116" height="296" alt="Laminar_Flow_Hood_Control" src="https://github.com/user-attachments/assets/6f0cd631-5f70-46fb-863f-19d5c038bf47" />
 
 Before consulting the full external guide, the following five rules must always be respected when working under the laminar flow hood:
 
@@ -324,6 +350,7 @@ Flasks used for culturing algae require additional attention due to possible bio
 - Sterilise according to standard lab autoclave protocol.
 
 [🔝 Back to top](#index)
+
 
 
 

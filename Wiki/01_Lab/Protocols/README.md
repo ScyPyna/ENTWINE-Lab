@@ -1,23 +1,26 @@
 # 🧑🏽‍🔬 Experimental Protocols
-- Welcome to the Experimental Protocols section! 
+
+Welcome to the Experimental Protocols section! 
 Here you’ll find all the step-by-step procedures for common lab experiments and culture maintenance. 
 Each protocol includes the materials you’ll need, clear instructions, and important safety tips to make sure your work is both reproducible and safe. 
-Remember to handle chemicals with care when preparing TAP medium, and always wear gloves and a lab coat.
+Remember to handle chemicals with care and always wear gloves and a lab coat.
 
 ---
 
-# Protocols index 
-- [Inoculation of Algae and Initiation of a Liquid Culture from Agar Slant](#-inoculation-of-algae-and-initiation-of-a-liquid-culture-from-agar-slant)
+# Index 
+- [Initiation of a Liquid Culture from Agar Slant](#-initiation-of-a-liquid-culture-from-agar-slant)
 - [Algal Dilution Scheme](#-algal-dilution-scheme)
 - [Preparation of TAP Algal Medium](#-preparation-of-tap-algal-medium)
 - [1 M Potassium Phosphate Stock Solution](#-1m-potassium-phosphate-stock-solution)
 - [TAP Salts Stock Solution](#-tap-salts-stock-solution)
 - [TAP Solid Medium Slants](#-tap-solid-medium-slants)
+- [Agar Slant Inoculation Protocol](#-agar-slant-inoculation-protocol)
 - [Freezing of cultures](#-freezing-of-cultures)
+
 
 ---
 
-## 🌱 Inoculation of Algae and Initiation of a Liquid Culture from Agar Slant
+## 🌱 Initiation of a Liquid Culture from Agar Slant
 
 This protocol describes how to start a fresh Chlamydomonas liquid culture in TAP medium under sterile conditions.
 
@@ -303,17 +306,126 @@ Keep lids off, placed upright on the hood bench.
 [🔝 Back to top](#protocols-index)
 
 ---
+--- 
+
+## 🧪 Agar Slant Inoculation Protocol
+### 🎯 Purpose: Long-Term Stock Conservation of C. reinhardtii
+Agar slant cultures are used for long-term conservation of cultures. This protocol describes the inoculation of pre-prepared agar slants from liquid cultures, using two alternative inoculation methods — pipetting and loop inoculation — whose advantages are discussed below.
+
+---
+
+### 📋 Materials
+- Pre-prepared TAP agar slant tubes
+- Liquid culture of the strain of interest in mid-log to early exponential phase
+- Sterile single-use 1 µL inoculating loops
+- Sterile single-use pipette tips with cotton filter
+- Micropipette (set to 30 µL)
+- 70% ethanol
+
+---
+
+### ⏳ Timing
+Inoculation should be carried out **at least** approximately 6–8 hours after the morning dilution of the liquid culture, when cells have recovered from dilution stress and are in a healthy, metabolically active state at the late lag to early exponential phase transition, prior to the main dark phase division burst. In practice, if cultures are diluted at around 9:30 am, inoculation at around 4:00–5:00 pm is appropriate.
+
+---
+
+⚠️ **Note on agar age**: slants should ideally be used within a reasonable time from preparation. Slants that are too freshly prepared may have excess surface moisture that interferes with inoculation and cell attachment. Allow at least 5 days in the incubator after preparation before inoculating if possible, also to test for bacterial contamination. 
+
+---
+
+### ⚙️ Preparation
+1. Turn on the laminar flow hood at least 5 minutes before starting.
+2. Wipe the hood surface thoroughly with 70% ethanol and allow to dry completely.
+3. Label all slant tubes before starting — include strain name, inoculation date, method used (P for pipette, L for loop), and initials. Label the tube itself, never the cap.
+4. Arrange all materials inside the hood before beginning — liquid culture, slant tubes, loops, pipette tips.
+
+---
+
+### 🛠️ Inoculation Methods
+**Method 1 — Pipetting** (Recommended Volume: 30 µL)
+(Label slants with P)
+1. Set the micropipette to 30 µL and attach a sterile single-use tip with cotton filter.
+2. Open the liquid culture flask and start to loose the slant tube.
+3. Collect 30 µL of liquid culture and close the flask immediately.
+4. Open the slant tube.
+5. Deposit the liquid at the bottom of the agar surface and gently spread it upward toward the top of the slant in a zig-zag motion using the side of the pipette tip, applying minimal pressure to avoid tearing the agar.
+6. Close the slant tube with the cap loosely resting on top — do not seal tightly yet.
+7. Leave inside the hood for a few minutes to allow the liquid to absorb into the agar surface before sealing tightly.
+8. Discard the pipette tip into the waste container. 
+
+---
+
+⚠️ **Important**: Take care to distribute the liquid evenly across the agar surface. Avoid depositing liquid between the gel and the tube wall, as this leads to uneven growth and makes taking material difficult. Even spreading across the exposed agar surface gives the best results.
+
+---
+
+**Method 2 — Loop Inoculation** (Recommended Volume: 3–4 µL using multiple loops)
+(Label slants with L)
+1. Open the liquid culture tube and start loosening the slant tube.
+2. Open a sterile single-use 1 µL inoculating loop from its packaging immediately before use.
+3. Dip the loop once into the liquid culture — a visible thin liquid film should form across the loop ring, confirming capture of the capillary volume. Close the culture tube immediately.
+4. Open the slant tube.
+5. Insert the loop gently and start from the bottom of the agar surface, drag it upward in a zig-zag motion toward the top of the slant, applying very light pressure.
+6. Seal the slant tube and discard the used loop.
+7. Repeat steps 1–6 with 2–3 additional fresh loops on the same slant to achieve a total inoculum of approximately 3–4 µL — this improves cell distribution and establishment without risking contamination from reusing a single loop.
+
+---
+
+⚠️ **Important**: Use only the loop ring to contact the agar surface. Avoid dragging the stick portion of the loop across the gel — while this may inadvertently increase the inoculum volume, it introduces an uncontrolled variable and may damage the agar surface. No drying time is needed after loop inoculation given the minimal volume deposited.
+
+---
+
+### ⏳Incubation
+- Place inoculated slants upright in a tube rack.
+- Incubate under a 16h/8h light/dark cycle at 23°C.
+- Visible greening of the agar surface is typically observed within 3–4 days.
+- Once growth is visible, examine a small sample under the microscope to confirm the culture is free of bacterial contamination.
+
+---
+
+### 🧪 Comparison of Methods and Recommendations
+Based on initial observations, the two methods differ in the following ways:
+Pipetting delivers a larger and more easily quantified inoculum but requires attention to liquid distribution — uneven spreading or liquid pooling between the gel and tube wall can lead to patchy or suboptimal growth. The use of a filtered pipette tip adds an extra layer of sterility assurance.
+Loop inoculation produces a more even cell distribution across the agar surface and requires no drying time, but a single 1 µL loop may deliver a suboptimal inoculum volume. Using 3–4 loops sequentially on the same slant is recommended to ensure sufficient cell transfer while maintaining full sterility.
+Both methods are acceptable for routine slant preparation. Loop inoculation with multiple loops is currently the preferred method based on observed cell distribution quality. This recommendation will be updated as more data are collected.
+
+[🔝 Back to top](#protocols-index)
+
+---
 ---
 
 ## 🧊 Freezing of cultures
+Long-Term Frozen Stock Conservation of C. reinhardtii
+Cryopreservation of C. reinhardtii cultures in exponential growth phase using 10% DMSO as cryoprotectant, followed by stepwise cooling across three temperatures to minimise ice crystal formation and maximise post-thaw cell viability. Prepare 5/10 samples to freeze for each culture.
 
-Prepare 5/10 samples to freeze for each culture.
+### 🧪 Materials
+- Microalgae cultures in TAP medium, exponential phase
+- Sterile TAP medium
+- DMSO
+- 1.5 mL Eppendorf tubes
+- Centrifuge
+- Pipettes and sterile tips (1 mL and 100 µL)
+- Polystyrene tube rack
 
-1. centrifuge 1 to 10mL of microalge in TAP (in exponential growth)
-2. resuspend the pellet in 900µL of TAP and 100µL of DMSO
-3. put them at 4°C for 1hr
-4. put them at -20°C for 1hr
-5. store them at -80°C
+### ⏱️ Timing
+Cultures should be taken from the dilution of the previous day, sampled in the early morning (around 9:30 am). At this point cells are in exponential phase, well recovered from the previous dilution, and at their optimal physiological state for cryopreservation. Using exponential phase cultures is critical to maximise post-thaw viability. Avoid using cultures that are too dense or approaching stationary phase — stressed or nutrient-limited cells survive freezing poorly compared to actively growing ones.
+
+### 📋 Procedure
+⚠️ All steps involving open samples must be performed under sterile conditions — work under the laminar flow hood.
+1. Transfer from 1 to 10 mL of algal solution (exponential phase culture) into a centrifuge tube.
+2. Centrifuge to obtain a cell pellet.
+3. Carefully discard the supernatant with a syringe without disturbing the pellet.
+4. Handle the pellet gently throughout — avoid vigorous pipetting or vortexing at any stage to minimise mechanical stress on the cells.
+5. Resuspend the pellet adding 900 µL of sterile TAP medium and 200 µL of DMSO (Cryoprotectant); **this quantity is used for 2 mL of solution. If you have more, increase the volumes**. Final DMSO concentration should always be 10% (v/v) also according to the majority of freezing procedures in literature.
+6. Pipette slowly until complete resuspension is achieved and the cryoprotectant is homogeneously distributed.
+DMSO is membrane-permeant and begins equilibrating across cell membranes immediately upon addition — work efficiently from this step onward and proceed to aliquoting without unnecessary delays.
+7. Aliquot the resuspended culture into 1.5 mL Eppendorf tubes, dispensing approximately 600-800 µL per tube.
+Leave sufficient headspace in each tube to accommodate volume expansion during freezing — do not fill tubes completely.
+8. Close all tubes securely and label with strain name and date (and cryoprotectant used, if different procedures are followed, otherwise it might not be strictly necessary).
+9. The samples are cooled gradually across three temperatures to promote slow, controlled freezing and minimise ice crystal formation, which is the primary cause of cell damage during cryopreservation:
+**4°C (1 h) → −20°C (1 h) → −80°C (final storage temperature)**
+
+**Note**: The first two temperature steps are to be done in the chemistry lab fridge, so moving the samples from the fridge to the freezer is quite simple. To store in the -80°C you need to transport the samples somewhere else. For this operation, store the samples in a box covered in paper towels and ice packs/freezer packs that were at the same temperature (-20°C). 
 
 [🔝 Back to top](#protocols-index)
 

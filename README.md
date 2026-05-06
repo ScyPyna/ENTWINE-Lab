@@ -26,6 +26,20 @@ This repository hosts multiple sub-projects related to the ENTWINE initiative.
 Each sub-project is contained in its own directory and includes a dedicated
 `README.md` describing its scope, structure, and usage.
 
+### 🦠 moving-chlamydomonas
+
+**[moving-chlamydomonas](https://github.com/ScyPyna/moving-chlamydomonas_pub)** — trajectory tracking and analysis pipeline for *Chlamydomonas* microalgae recorded on microscopy videos.
+
+Provides two Streamlit web interfaces:
+- **`tracking_app`** — interactive parameter tuning and batch tracking from `.avi` videos
+- **`clam-app`** — statistical analysis and plotting of the resulting trajectories
+
+```bash
+git clone https://github.com/ScyPyna/moving-chlamydomonas_pub.git
+cd moving-chlamydomonas_pub
+pip install -e .
+```
+
 ---
 
 ## 📌 Getting Started

@@ -16,6 +16,7 @@ Remember to handle chemicals with care and always wear gloves and a lab coat.
 - [TAP Solid Medium Slants](#-tap-solid-medium-slants)
 - [Agar Slant Inoculation Protocol](#-agar-slant-inoculation-protocol)
 - [Freezing of cultures](#-freezing-of-cultures)
+- [Chlamydomonas Cultivation & Motility Reference (Nature Protocols)](#-chlamydomonas-cultivation--motility-reference-nature-protocols)
 
 
 ---
@@ -395,7 +396,7 @@ Both methods are acceptable for routine slant preparation. Loop inoculation with
 ---
 
 ## 🧊 Freezing of cultures
-Long-Term Frozen Stock Conservation of C. reinhardtii
+Long-Term Frozen Stock Conservation of C. reinhardtii (to be modified with a better procedure)
 Cryopreservation of C. reinhardtii cultures in exponential growth phase using 10% DMSO as cryoprotectant, followed by stepwise cooling across three temperatures to minimise ice crystal formation and maximise post-thaw cell viability. Prepare 5/10 samples to freeze for each culture.
 
 ### 🧪 Materials
@@ -429,8 +430,33 @@ Leave sufficient headspace in each tube to accommodate volume expansion during f
 
 [🔝 Back to top](#protocols-index)
 
+---
+---
+
+## 📖 Chlamydomonas Cultivation & Motility Reference (Nature Protocols)
+
+Unlike the step-by-step protocols above, this one is a full published reference paper so treat it a bit differently: you don't need to read accurately as soon as you start moving your first steps in the lab. 
+It's meant to be a useful resource you can dip into as questions come up, not a checklist to complete on day one.
+
+**Catalán, Fragkopoulos, Girot, Lorenz & Bäumchen (2025).** *Preparation, maintenance and propagation of synchronous cultures of photoactive Chlamydomonas cells.* Nature Protocols, 20, 2125–2150.
+
+[Preparation, maintenance and propagation of synchronous cultures of photoactive Chlamydomonas cells.pdf](https://github.com/user-attachments/files/31686101/Preparation.maintenance.and.propagation.of.synchronous.cultures.of.photoactive.Chlamydomonas.cells.pdf)
 
 
+**Why it's here:** although keeping cells alive mighr seem what matters the most, this protocol covers all the 'other things' that are fundamental for our experiments, from culture synchronicity to motility characterization, not just general algal cultivation.
+
+**What you'll find inside:**
+- Background on cell structure and life cycle (useful if you're new to *Chlamydomonas*, very useful to refresh even if you already know it);
+- Detailed short-term (liquid) vs. long-term (agar) cultivation procedures, sterilization, and media preparation;
+- How to check whether a culture is properly synchronized, and why that matters for reproducible behavioral data;
+- Assays for growth rate, cell size distribution, and swimming velocity in quasi-2D confinement, including image-analysis approaches;
+- A **troubleshooting table** (contamination signs, palmelloid colonies, motility artifacts after confinement...) which is worth bookmarking;
+- A comparison table of common wild-type and photoreceptor-mutant strains, with strain-specific quirks and adaptations.
+
+[🔝 Back to top](#protocols-index)
+
+---
+---
 
 
 

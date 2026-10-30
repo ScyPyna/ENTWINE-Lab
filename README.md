@@ -44,7 +44,7 @@ pip install -e .
 
 ## 📌 Getting Started
 
-- ask for your SOLDI credentials, needed for the cantine and for accessing all the IT services: ask Gianni to the care of it
+- ask for your SOLDI credentials, needed for the cantine and for accessing all the IT services: Gianni has to the care of it (email Loretta Servidio)
 - go to the administration office to create and activate your badge to access the lab and offices
 - create your unical email following these [instructions](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/Email_Request/README.md)
 - create your [tailscale](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/OpenVPN/README.md) account—needed for next step

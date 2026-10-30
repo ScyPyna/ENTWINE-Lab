@@ -44,6 +44,10 @@ for the project, including servers, version control, and digital tools.
 Information about administrative procedures, internal workflows, and
 institutional requirements related to the project.
 
+### Subsections
+- [Study (type D) visa](03_Administrative/Visa/README.md)  
+- [Italian bank account](03_Administrative/Italian_Bank_Account/README.md)
+
 ---
 
 📌 **Note**:  

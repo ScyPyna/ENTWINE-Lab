@@ -1,4 +1,4 @@
-# 🔬 ENTWINE Lab Repository
+# 🔬 Biolight Lab Repository
 
 This repository serves as the main workspace for the **ENTWINE project**.
 It contains both project documentation and the software/hardware sub-projects
@@ -13,7 +13,7 @@ organized and version-controlled in a single place.
 
 All general documentation is collected in the project Wiki:
 
-👉 **[ENTWINE Project Wiki](Wiki/README.md)**
+👉 **[Biolight Wiki](Wiki/README.md)**
 
 The Wiki provides an overview of laboratory practices, technical guidelines,
 and organizational information relevant to the project.

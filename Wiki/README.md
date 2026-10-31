@@ -1,8 +1,8 @@
-# 🔬 ENTWINE Project Wiki
+# 🔬 Biolight Project Wiki
 
-Welcome to the **ENTWINE Project Wiki**.  
+Welcome to the **Biolight Project Wiki**.  
 This wiki is the central reference point for laboratory activities, IT
-infrastructure, and administrative procedures related to the ENTWINE project.
+infrastructure, and administrative procedures related to the lab.
 
 The documentation is organized into thematic sections to help new and current
 members quickly find relevant information and follow shared standards.

@@ -1,8 +1,24 @@
 # Access to the Workstation via SSH (Step-by-Step Guide)
 
-This workstation can be accessed **only via SSH using public/private keys**.
+The workstation is reachable at **`160.97.1.221`** from the university network, or from outside with [OpenVPN](../OpenVPN/README.md) active.
 
-Each user must generate **their own SSH key** on their personal computer and send the **public key** to the system administrator.
+You can log in with your **password** or with an **SSH key**.
+
+## First access: password (recommended to start)
+
+Open a terminal (Terminal on macOS, PowerShell on Windows) and run:
+
+```text
+ssh USERNAME@160.97.1.221
+```
+
+`USERNAME` is your workstation username. Then type your password (nothing is shown while typing).
+
+The first time, SSH asks you to confirm the workstation fingerprint: it must be `SHA256:c1B575auohjm95cml96VvhfDDW86MkaEyUeus5pT3wc`. If it matches, type `yes`.
+
+## Then: SSH keys, to stop typing the password
+
+Over time, generate an SSH key on each computer you use and send its **public key** to the system administrator (step-by-step instructions below). Once your key is installed, the same command logs you in without asking for the password.
 
 ---
 
@@ -10,11 +26,10 @@ Each user must generate **their own SSH key** on their personal computer and sen
 
 You must know:
 - Your **username** on the workstation (example: `alice`)
-- The **hostname** of the workstation (example: `workstation`)
+- The **IP address** of the workstation: `160.97.1.221`
 
 In the examples below:
 - `USERNAME` → your workstation username
-- `WORKSTATION_HOSTNAME` → the workstation hostname
 
 ---
 
@@ -93,18 +108,18 @@ Copy the entire line and send it to the workstation administrator.
 After the administrator confirms that your key has been installed, connect using:
 
 ```text
-ssh USERNAME@WORKSTATION_HOSTNAME
+ssh USERNAME@160.97.1.221
 ```
 
 Example:
 ```text
-ssh alice@workstation
+ssh alice@160.97.1.221
 ```
 If this is your first connection, you will see:
 
 ```text
-The authenticity of host 'workstation (XXX.XXX.XXX.XXX)' can't be established.
-ED25519 key fingerprint is SHA256:YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY.
+The authenticity of host '160.97.1.221 (160.97.1.221)' can't be established.
+ED25519 key fingerprint is SHA256:c1B575auohjm95cml96VvhfDDW86MkaEyUeus5pT3wc.
 Are you sure you want to continue connecting (yes/no)?
 ```
 
@@ -200,19 +215,19 @@ Copy the entire line and send it to the workstation administrator.
 After your key has been installed:
 
 ```text
-ssh USERNAME@WORKSTATION_HOSTNAME
+ssh USERNAME@160.97.1.221
 ```
 
 Example:
 
 ```text
-ssh alice@workstation
+ssh alice@160.97.1.221
 ```
 
 On first connection you may see:
 
 ```text
-The authenticity of host 'workstation (XXX.XXX.XXX.XXX)' can't be established.
+The authenticity of host '160.97.1.221 (160.97.1.221)' can't be established.
 Are you sure you want to continue connecting (yes/no)?
 ```
 
@@ -245,7 +260,7 @@ Example content:
 
 ```text
 Host workstation
-    HostName WORKSTATION_HOSTNAME
+    HostName 160.97.1.221
     User USERNAME
     IdentityFile ~/.ssh/id_ed25519
 ```

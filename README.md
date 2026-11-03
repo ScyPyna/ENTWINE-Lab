@@ -44,17 +44,19 @@ pip install -e .
 
 ## 📌 Getting Started
 
-- ask for your SOLDI credentials, needed for the cantine and for accessing all the IT services: Gianni has to the care of it (email Loretta Servidio)
+- ask for your SOLDI credentials, needed for the canteen and for accessing all the IT services: Gianni takes care of this (email Loretta Servidio)
 - go to the administration office to create and activate your badge to access the lab and offices
 - create your unical email following these [instructions](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/Email_Request/README.md)
-- create your [tailscale](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/OpenVPN/README.md) account—needed for next step
+- create your [tailscale](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/OpenVPN/README.md) account—needed for the next steps
 - join Mattermost to communicate with the rest of the team
-- request [OpenVPN](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/OpenVPN/README.md) to access the IT services from away
-- set your [SSH](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/SSH_Keys/README.md) to access the Workstation, where you can analyse the data
+- request your Microsoft Office licence on [uniticket](https://ticket.unical.it/dashboard/) (request code L1)
+- ask Gianni for access to our Claude team licence (you need a @unical email)
+- set up your [SSH](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/SSH_Keys/README.md) keys to access the Workstation, where you can analyse the data
 - ask Giusy for your NAS account, where your data are stored
-- now you can read [here](https://github.com/ScyPyna/moving-chlamydomonas_pub) where it is explained how to use the app to analyse the data
-- for foreigners, check also the [administrative process](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/03_Administrative/README.md) section
-- have fun exploring the other pages and help us keeping the wiki updated!
+- request [OpenVPN](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/OpenVPN/README.md) access to reach the IT services from away
+- now you can read [here](https://github.com/ScyPyna/moving-chlamydomonas_pub) how to use the app to analyse the data
+- if you are coming from abroad, check also the [administrative process](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/03_Administrative/README.md) section
+- have fun exploring the other pages, and help us keep the wiki updated!
 
 
 ---

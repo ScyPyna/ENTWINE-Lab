@@ -18,9 +18,18 @@ Mattermost works on every device:
 ## Join the group server
 
 1. Turn on Tailscale.
-2. Open the app and enter exactly `http://100.105.81.57:8065` as the server URL.
-3. The first time, create your account. Username and password are your own
-   choice and personal: they are not the lab's Gmail credentials used for
-   Tailscale.
+2. **First time only:** open this invite link in a browser and create your
+   account:
+
+   http://100.105.81.57:8065/signup_user_complete/?id=68pa9zbqy7rtjd63u14rqcye3a
+
+   Without this link you cannot create an account: the normal login page has
+   no sign-up option. Username and password are your own choice and personal:
+   they are not the lab's Gmail credentials used for Tailscale.
+3. Open the app, enter exactly `http://100.105.81.57:8065` as the server URL
+   and log in with the account you just created.
 
 Once logged in, you are in the group server.
+
+If the link or the server URL does not open at all, Tailscale is not active
+on that device.

@@ -32,6 +32,7 @@ for the project, including servers, version control, and digital tools.
 - [Server and NAS storage](02_IT/Server_and_NAS/README.md)  
 - [SSH keys request](02_IT/SSH_Keys/README.md)  
 - [OpenVPN request](02_IT/OpenVPN/README.md)  
+- [Mattermost](02_IT/Mattermost/README.md)  
 - [@unical.it email request](02_IT/Email_Request/README.md)  
 - [Project Git](02_IT/Project_Git/README.md)  
 - [Obsidian](02_IT/Obsidian/README.md)

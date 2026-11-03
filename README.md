@@ -48,7 +48,7 @@ pip install -e .
 - go to the administration office to create and activate your badge to access the lab and offices
 - create your unical email following these [instructions](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/Email_Request/README.md)
 - create your [tailscale](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/OpenVPN/README.md#tailscale) account—needed for the next steps
-- join Mattermost to communicate with the rest of the team
+- join [Mattermost](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/Mattermost/README.md) to communicate with the rest of the team
 - request your Microsoft Office licence on [uniticket](https://ticket.unical.it/dashboard/) (request code L1)
 - ask Gianni for access to our Claude team licence (you need a @unical email)
 - set up your [SSH](https://github.com/ScyPyna/ENTWINE-Lab/blob/main/Wiki/02_IT/SSH_Keys/README.md) keys to access the Workstation, where you can analyse the data
